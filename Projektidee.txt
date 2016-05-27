@@ -1,0 +1,5 @@
+### Anmerkung Flo W - 27.05. 
+  Aufgrund des geringen Zeitfensters für VS wäre ich für eine reine Steuerung durch das Blickfeld.
+  Also per "VREyeRaycaster" tracken wo der nutzer hinblickt, und dann damit Schaltflächen/Scripte aktivieren.
+###
+
