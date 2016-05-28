@@ -9,4 +9,4 @@
 	
 	 :arrow_lower_right:
 	Klingt gut. Erste Tests laufen auch schon super. Ich bring Alles was ich bis dahin habe am Montag mal mit.
-	Können ja überlegen ob wir lowpoly Dinge in Blender bauen, um diese in Unity einzubringen.  :heavy_check_mark:  :shipit:
+	Können ja überlegen ob wir lowpoly Dinge in Blender bauen, um diese in Unity einzubringen. 
