@@ -1,0 +1,23 @@
+
+Um Missverständnisse zu beseitigen sollten wir alle dieselben Versionen nutzen:
+
+  -Unity 5.3.5
+  https://unity3d.com/get-unity/update
+
+
+zusätzlich braucht ihr noch:
+  - Java SDK [solltet ihr aber eh schon drauf haben]
+  *Aktuell ist "Kit 8u91"
+  http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+  
+  
+und ihr braucht Android SDK:
+  - Allerdings nicht die gesamte Software, da reichen die SDK tools!
+    https://developer.android.com/studio/index.html#downloads
+    
+    (Download Options-->Get just the command line tools-->Win_No_Installer)
+    Die rar.Datei einfach entpacken, Unity fragt beim builden danach.
+  
+  
+    
+Hab ich was vergessen?
