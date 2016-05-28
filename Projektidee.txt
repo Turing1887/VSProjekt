@@ -1,8 +1,12 @@
 ﻿### Anmerkung Flo W - 27.05. 
   Aufgrund des geringen Zeitfensters für VS wäre ich für eine reine Steuerung durch das Blickfeld.
   Also per "VREyeRaycaster" tracken wo der nutzer hinblickt, und dann damit Schaltflächen/Scripte aktivieren.
-###
+
  
 ### Anmerkung Tim - 28.5.
 	Sehe ich genauso. Ich hatte gedacht, dass man in einer Art Kammer gefangen ist und man halt Dinge inspizieren muss
 	um rauszufinden wie man rauskommt. Oder so. kp xoxoxo lol :egg: 
+	
+	 :arrow_lower_right:
+	Klingt gut. Erste Tests laufen auch schon super. Ich bring Alles was ich bis dahin habe am Montag mal mit.
+	Können ja überlegen ob wir lowpoly Dinge in Blender bauen, um diese in Unity einzubringen.  :heavy_check_mark:  :shipit:
