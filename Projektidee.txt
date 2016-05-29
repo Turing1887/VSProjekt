@@ -1,4 +1,4 @@
-﻿### Anmerkung Flo W - 27.05. 
+### Anmerkung Flo - 27.05. 
   Aufgrund des geringen Zeitfensters für VS wäre ich für eine reine Steuerung durch das Blickfeld.
   Also per "VREyeRaycaster" tracken wo der nutzer hinblickt, und dann damit Schaltflächen/Scripte aktivieren.
 
@@ -7,9 +7,16 @@
 	Sehe ich genauso. Ich hatte gedacht, dass man in einer Art Kammer gefangen ist und man halt Dinge inspizieren muss
 	um rauszufinden wie man rauskommt. Oder so. kp xoxoxo lol :egg: 
 	
-	 :arrow_lower_right:
+	Flo:
 	Klingt gut. Erste Tests laufen auch schon super. Ich bring Alles was ich bis dahin habe am Montag mal mit.
 	Können ja überlegen ob wir lowpoly Dinge in Blender bauen, um diese in Unity einzubringen. 
 
 	Tim:
 	Auf jedenfall. Hab auch alles zum Laufen gekriegt mit meinen Cardboard Glasses. Der Grundstein ist gelegt.
+
+
+### Anmerkung Flo - 29.05.
+	Nochmal wegen der räumlichen Bewegung:
+	Wir könnten auch über Events auto-Routen starten.
+	Das man sich weiterhin frei umsehen kann, und dabei einen festen Weg abgeht.
+	Oder halt durch ablenden und aufblenden den Ort wechseln.
