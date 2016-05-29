@@ -34,3 +34,8 @@
 	Tim:
 	Naja wenn wir quasi so einen kleinen Radius(2D-Collider?) auf den Boden unter den Character machen der sich mit bewegt, dann kann man den ja als Hotspot nehmen. Ansonsten glaube ich garnicht, dass man den Boden zu oft trifft.
 	Müssen wir Montag nochmal drüber reden 
+	
+	Flo:
+	Hehe, mit HotSpots meinte ich kleine markierte Bereiche die man für 5 Sekunden angucken kann,
+	um zu ihnen zu gehen. Das man sich sozusagen an diesen Punkten durch die Welt hangeln könnte.
+	Naja, wir schnacken morgen in Ruhe.
