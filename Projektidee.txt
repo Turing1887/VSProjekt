@@ -22,4 +22,11 @@
 	Oder halt durch ablenden und aufblenden den Ort wechseln.
 	
 	Tim:
-	Oder sobald man den Boden "anvisiert" bewegt man sich nach vorne. Also quasi wenn man runterschaut auf den Boden bewegt man sich in die Richtung.
+	Oder sobald man den Boden "anvisiert" bewegt man sich nach vorne. Also quasi wenn man 
+	runterschaut auf den Boden bewegt man sich in die Richtung.
+	
+	Flo:
+	Ja, aber da bleibt das Problem mit der Abfrage.
+	Da man beim normalen umschauen ja auch teilweise Boden trifft.
+	Oder es gibt einzelnde Hot-Spots, ähnlich wie bei googleStreetView,
+	plus eine höchstentfernung in der die anwählbar sind.
