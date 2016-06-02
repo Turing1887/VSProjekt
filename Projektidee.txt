@@ -49,3 +49,4 @@
 	Tim:
 	Jo, hab eben das Geh-Skript fertig gekriegt. Wenn du jetzt auf ein Objekt schaust bewegst du dich drauf zu. 
 	Ist aber noch recht unschön deswegen überarbeite ich das nochmal. Was brauchen wir noch an Skripten erstmal?
+	Btw: Kannst du deine Modelle als .fbx hochladen?
