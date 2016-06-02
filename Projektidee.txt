@@ -1,4 +1,4 @@
-### Anmerkung Flo - 27.05. 
+﻿### Anmerkung Flo - 27.05. 
   Aufgrund des geringen Zeitfensters für VS wäre ich für eine reine Steuerung durch das Blickfeld.
   Also per "VREyeRaycaster" tracken wo der nutzer hinblickt, und dann damit Schaltflächen/Scripte aktivieren.
 
@@ -46,3 +46,6 @@
 	Gibt es schon neue Scripte zum drüberschauen für mich ? :D
 	
 	
+	Tim:
+	Jo, hab eben das Geh-Skript fertig gekriegt. Wenn du jetzt auf ein Objekt schaust bewegst du dich drauf zu. 
+	Ist aber noch recht unschön deswegen überarbeite ich das nochmal. Was brauchen wir noch an Skripten erstmal?
