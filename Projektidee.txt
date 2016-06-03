@@ -55,4 +55,6 @@
 	Hab ich gemacht. Aber sage mir einmal: warum .fbx und nicht .obj?
 	Habe bisher immer .obj-Dateien in Unity importiert.
 	
-	
+	Tim:
+	Skript ist jetzt auch oben zum Bewegen. Wir müssten mal drüber reden was an Funktionen jetzt noch dazu kommen muss. Sprich Interaktion und dergleichen.
+	.fbx weil Unity das ganz gut importieren kann und auch das Material/Farbe und so übernimmt. Hab mit .obj noch nie gearbeitet.
