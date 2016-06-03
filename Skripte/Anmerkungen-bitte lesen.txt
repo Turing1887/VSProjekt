@@ -3,4 +3,7 @@
 WalkToward.cs: 
 	Wenn ihr das Skript einfügt, bitte in "Head" von CardBoardMain einfügen. Außerdem benötigt der 
 	CardBoardMain einen CharacterController. In die Felder CardBoardMain und Controller des Skriptes bitte
-	in beide das CardBoardMain ziehen. Für die Geschwindigkeit schlage ich 2 vor.
+	in beide das CardBoardMain ziehen. Für die Geschwindigkeit schlage ich 2 vor. 
+	
+	Nachtrag:
+	Außerdem benötigen die Objekte zu denen man sich hinbewegen will den Tag "Object". 
