@@ -7,3 +7,8 @@ WalkToward.cs:
 	
 	Nachtrag:
 	Außerdem benötigen die Objekte zu denen man sich hinbewegen will den Tag "Object". 
+
+Glow.cs:
+	Einfach das Skript auf das jeweilige Objekt ziehen. Bei dem Material des Objekts bitte die
+	Emissions RGB Werte alle auf 0.4 setzen. DANKESCHÖN XOXOXO
+	

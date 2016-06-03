@@ -58,3 +58,6 @@
 	Tim:
 	Skript ist jetzt auch oben zum Bewegen. Wir müssten mal drüber reden was an Funktionen jetzt noch dazu kommen muss. Sprich Interaktion und dergleichen.
 	.fbx weil Unity das ganz gut importieren kann und auch das Material/Farbe und so übernimmt. Hab mit .obj noch nie gearbeitet.
+
+	Tim:
+	Hab ein Skript geschrieben, damit ein anvisiertes Objekt hell aufleuchtet um es von gewöhnlichen Objekten zu unterscheiden.
