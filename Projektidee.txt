@@ -61,3 +61,8 @@
 
 	Tim:
 	Hab ein Skript geschrieben, damit ein anvisiertes Objekt hell aufleuchtet um es von gewöhnlichen Objekten zu unterscheiden.
+	
+	Flo:
+	Top! *DaumenHoch*
+	Sollten nochmal Brainstorming zu den weiteren Objekten und dem ablauf machen.
+	( Glaub Cisco ist sehr eingebunden bei INF2 zur Zeit :x )
