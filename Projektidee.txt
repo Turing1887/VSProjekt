@@ -98,3 +98,11 @@
 	Tim:
 	Ist irgendwie schon mega nervig mit dem Projekt in Github...Jedesmal wenn man es nur öffnet hat man 300+ Changes :/
 	Vllt müssen wir uns was anderes einfallen lassen. 
+
+	Flo:
+	Joa :'(
+	Zur Not Nur eine Projekt-Version auf Cisco's Laptop, und dann Montags vor- , 
+	zwischen- und/oder nach VS zusammensetzen.
+	Wir können uns dann ja 2x die Woche per usb stick die aktuelle versionen holen,
+	und da neues drin testen oder dazu bauen.
+	
