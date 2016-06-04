@@ -92,4 +92,5 @@
 	Die Reihenfolge ist relativ egol :) Gern! Du könntest auch ein neues Unityprojekt erstellen im GitHub Ordner auf das wir alle Zugriff hätten.
 	Dann hätten wir quasi ein übereinstimmendes Projekt :D 
 	
-	
+	Tim:
+	Ich dachte man könnte die Reihenfolge als Papierschnipsel verteilen im Raum. Bzw man kriegt die Schnipsel durch Rätsel/Minispiele. (siehe DoorNumber.png)
