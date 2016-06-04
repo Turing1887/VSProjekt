@@ -94,3 +94,7 @@
 	
 	Tim:
 	Ich dachte man könnte die Reihenfolge als Papierschnipsel verteilen im Raum. Bzw man kriegt die Schnipsel durch Rätsel/Minispiele. (siehe DoorNumber.png)
+
+	Tim:
+	Ist irgendwie schon mega nervig mit dem Projekt in Github...Jedesmal wenn man es nur öffnet hat man 300+ Changes :/
+	Vllt müssen wir uns was anderes einfallen lassen. 
