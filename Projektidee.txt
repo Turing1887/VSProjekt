@@ -87,5 +87,9 @@
 		
 	Aber das sind ja nur peanuts. 
 	Ich kann ja mal n Testraum bauen und die objekte einfügen.
+
+	Tim:
+	Die Reihenfolge ist relativ egol :) Gern! Du könntest auch ein neues Unityprojekt erstellen im GitHub Ordner auf das wir alle Zugriff hätten.
+	Dann hätten wir quasi ein übereinstimmendes Projekt :D 
 	
 	
