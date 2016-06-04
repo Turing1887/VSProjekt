@@ -76,3 +76,16 @@
 
 ### Anmerkung Tim - 04.Juni.
 	Hab mal Zahlen über die Kugeln gemacht. So ist es sicherlich einfacher Hinweise zu verteilen.
+	
+	Flo:
+	Sehr gut! Allerdings finde ich die Reihenfolge komisch :)
+	Würde das eher nach westlicher Leserichtung ausrichten.
+	
+		1	2
+		    3
+		4	5
+		
+	Aber das sind ja nur peanuts. 
+	Ich kann ja mal n Testraum bauen und die objekte einfügen.
+	
+	
