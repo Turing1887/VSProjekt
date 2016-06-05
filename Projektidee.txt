@@ -107,4 +107,17 @@
 	und da neues drin testen oder dazu bauen.
 	
 	Cisco:
-	Was die Zahlen-Schnippsel angeht wäre ich dafür, dass man sie nur durch erfolgreiche Spiele gewinnt, bzw. bei nichterfolgreichen Spielen eine Auswahl an Schnippseln bekommt (vll. 2-3) von denen aber nur einer der richtige ist. Das mit den 300+ Changes klingt extrem nervig. Können meinen Laptop gerne als Basis benutzen, finde es auch besser nur eine Projektversion zu haben. 
+	Was die Zahlen-Schnippsel angeht wäre ich dafür, dass man sie nur durch erfolgreiche Spiele gewinnt, bzw. bei
+	nichterfolgreichen Spielen eine Auswahl an Schnippseln bekommt (vll. 2-3) von denen aber nur einer der richtige ist.
+	Das mit den 300+ Changes klingt extrem nervig. Können meinen Laptop gerne als Basis benutzen, finde es auch besser
+	nur eine Projektversion zu haben. 
+
+	Flo:
+	Okay. Aber was genau für MiniGames?
+	Wir brauchen zuerst die Rätsel und Ideen zu den Games, bevor wir die bauen könn :)
+	Können ja gemeinsam Ideen sammeln:
+	- 4 Lampen die in einer Reihenfolge aufleuchten, und man muss das Muster nachmachen.
+	- behalte ein sich bewegendes Objekt für 12 Sek im Focus.
+	- ...
+	Da wir nur den FocusPunkt und Kopfbewegung als Input haben ist die Auswahl glaube ich 
+	recht eingeschränkt. 
