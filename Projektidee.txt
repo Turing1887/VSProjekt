@@ -106,3 +106,5 @@
 	Wir können uns dann ja 2x die Woche per usb stick die aktuelle versionen holen,
 	und da neues drin testen oder dazu bauen.
 	
+	Cisco:
+	Was die Zahlen-Schnippsel angeht wäre ich dafür, dass man sie nur durch erfolgreiche Spiele gewinnt, bzw. bei nichterfolgreichen Spielen eine Auswahl an Schnippseln bekommt (vll. 2-3) von denen aber nur einer der richtige ist. Das mit den 300+ Changes klingt extrem nervig. Können meinen Laptop gerne als Basis benutzen, finde es auch besser nur eine Projektversion zu haben. 
