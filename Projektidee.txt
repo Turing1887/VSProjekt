@@ -121,3 +121,29 @@
 	- ...
 	Da wir nur den FocusPunkt und Kopfbewegung als Input haben ist die Auswahl glaube ich 
 	recht eingeschränkt. 
+
+	TeamSitzung:
+	Projekt: MarktStand
+	User verkauft Nahrung an Kunden.
+	
+	Blender:
+	- Landschaft (Terrain)
+	- Dinge im Stand:
+		- Frittöse
+		- kl. TV (RL filme ablaufen lassen)
+		- Kasse (unterhalb der Ablage)
+		- Geld (kleingeld + scheine)
+		- Telefon (UI mit Liste "Nachbestellen")
+		- Herdplatten
+		- NOTKNOPF (Kein Bock mehr: Feierabend) - Metallrollo bauen was runterfährt.
+	
+	- Kunden (UI überm Kopf mit Wunsch und Restlicher Wartezeit)
+	- Ambiente (Vögel,Fahrradfahrer,etc)
+	
+	Inhalt:
+	Ziel: Geld ansammeln.
+	Stand hat kosten / festen Preis.
+	
+	
+	
+	
