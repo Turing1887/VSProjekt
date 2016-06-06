@@ -12,3 +12,7 @@ Glow.cs:
 	Einfach das Skript auf das jeweilige Objekt ziehen. Bei dem Material des Objekts bitte die
 	Emissions RGB Werte alle auf 0.4 setzen. DANKESCHÖN XOXOXO
 	
+Spawn.cs
+	Für Spawn müsst ihr ein Objekt erstellen(z.B nen Würfel) und den Mesh renderer entfernen. Die Y-Position sollte den gleichen Wert haben,
+	wie der Untergrund. Das Skript dann auf das Objekt ziehen. Für den "Customer" einfach den Boxmensch in die Hierarchy ziehen und unterhalb des
+	Bodens platzieren, so dass man ihn nicht sieht. Dann Rigidbody und so hinzufügen und Wohllá(ist frantsöhzisch). 
