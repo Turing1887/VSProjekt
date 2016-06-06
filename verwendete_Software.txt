@@ -19,5 +19,8 @@ und ihr braucht Android SDK:
     Die rar.Datei einfach entpacken, Unity fragt beim builden danach.
   
   
+Aktuelle Version von Google Cardboard SDK for Unity:
+  https://developers.google.com/vr/unity/download
+    
     
 Hab ich was vergessen?
