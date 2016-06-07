@@ -1,0 +1,12 @@
+
+
+- Marktstand
+- Lichtschalter
+- Regal
+- Stuhl
+- BoxFighterYellow (Kunde)
+- Dollarnote
+- Fritteuse
+- FritteusenKorb
+
+
