@@ -198,4 +198,5 @@ Tim nochmal:
 	Öhm, brauchen wir eigentlich auch eine ausführliche Dokumentation?
 	Wir müssen mal die Anforderungen rausfinden :*
 	
-	
+	Tim:
+	Auf jedenfall müssen wir ne Präsentation machen. Wie läufts mit dem Terrain?
