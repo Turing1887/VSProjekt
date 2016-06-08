@@ -198,4 +198,7 @@ Tim nochmal:
 	Öhm, brauchen wir eigentlich auch eine ausführliche Dokumentation?
 	Wir müssen mal die Anforderungen rausfinden :*
 	
+	Tim:
+	Wir müssen das auf jeden Fall präsentieren so mit Screenshots und so. 
+	Wie läufts mit dem Terrain? :D
 	
