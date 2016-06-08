@@ -68,7 +68,8 @@
 	( Glaub Cisco ist sehr eingebunden bei INF2 zur Zeit :x )
 
 	Tim:
-	Dem stimme ich zu. Naja spätestens Montag sehen wa uns ja sowieso bis dahin können wa uns ja mal Gedanken machen. Wer baut eigentlich den Raum?
+	Dem stimme ich zu. Naja spätestens Montag sehen wa uns ja sowieso bis dahin können wa uns ja mal Gedanken machen. 
+	Wer baut eigentlich den Raum?
 	Also wer gestaltet das Level? 
 
 	Tim:
@@ -93,7 +94,8 @@
 	Dann hätten wir quasi ein übereinstimmendes Projekt :D 
 	
 	Tim:
-	Ich dachte man könnte die Reihenfolge als Papierschnipsel verteilen im Raum. Bzw man kriegt die Schnipsel durch Rätsel/Minispiele. (siehe DoorNumber.png)
+	Ich dachte man könnte die Reihenfolge als Papierschnipsel verteilen im Raum. Bzw man kriegt die Schnipsel durch 
+	Rätsel/Minispiele. (siehe DoorNumber.png)
 
 	Tim:
 	Ist irgendwie schon mega nervig mit dem Projekt in Github...Jedesmal wenn man es nur öffnet hat man 300+ Changes :/
@@ -188,5 +190,12 @@ Tim nochmal:
 	Das Terrain ist schon in der mache.
 	
 	Tim:
-	Richtig nice! Love it. Hab mal n screenshot vom bisherigen UI gemacht. Sieht noch nicht so knorke aus aber dafür hab ich 
-	Burger und Pommes Sprites in Paint gebastelt xD
+	Richtig nice! Love it. Hab mal n screenshot vom bisherigen UI gemacht. Sieht noch nicht so knorke aus aber 
+	dafür hab ich Burger und Pommes Sprites in Paint gebastelt xD
+
+### 08.06.16 ###
+	Flo:
+	Öhm, brauchen wir eigentlich auch eine ausführliche Dokumentation?
+	Wir müssen mal die Anforderungen rausfinden :*
+	
+	
