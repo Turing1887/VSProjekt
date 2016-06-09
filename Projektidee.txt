@@ -199,6 +199,17 @@ Tim nochmal:
 	Wir müssen mal die Anforderungen rausfinden :*
 	
 	Tim:
+<<<<<<< HEAD
 	Wir müssen das auf jeden Fall präsentieren so mit Screenshots und so. 
 	Wie läufts mit dem Terrain? :D
+=======
+	Auf jedenfall müssen wir ne Präsentation machen. Wie läufts mit dem Terrain?
+
+	Flo: 
+	Heute noch nicht weitergemacht.
+	Das erste Test-Terrain war etwas zu groß geworden.
+	(unnötig viel zum rendern dann + die Kunden hätte man schon 2Km entfernt gesehen..)
+	Ich mach uns was kleines feines, vlt mit See.
+	
+>>>>>>> origin/master
 	
