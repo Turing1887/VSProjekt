@@ -208,5 +208,17 @@ Tim nochmal:
 	(unnötig viel zum rendern dann + die Kunden hätte man schon 2Km entfernt gesehen..)
 	Ich mach uns was kleines feines, vlt mit See.
 	
-
+### 08.06.16 ###
+	Flo:
+	Update vom heutigen Treffen:
+	- Erstellen einer Dropbox für die UnityVersion
+	- Angefangen Lebensmittel und Tiere zu erstellen
+	- Wenn das Terrain hochgeladen wurde die Lauf Scripte testen/anpassen
+	- In naher Zukunft dann die Scripte für die UI Fenster für Kunden, Geräte usw
+	- Ein MasterScript das Guthaben, Kunden, Nahrungsmenge usw überblickt.
+	
+	hab ich was vergessen?
+	
+	
+	
 	
