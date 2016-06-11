@@ -1,0 +1,42 @@
+Unity VR Projekt: Marktstandverkäufer: ScriptÜbersicht
+
+__ MasterScript: Überwacht Alles.
+	-> sieht:
+		~Tageszeit
+		      -- regelt den Lauf der Sonne.
+		      -- statt neue Scenen zu laden könnte man ein Freeze und dunkelheits-Effekt
+		         einbauen. Mit Schriftzug z.b. " Tag 2 – Guthaben aktuell 53,34€ "
+
+		~Einkäufer
+		      --Passt auf das nicht zuviele oder zuwenige spawnen
+
+		~Guthaben
+		      -- regelt Saldo (sprich: zieht guthaben ab oder addiert was dazu)
+
+		~Nahrungsmenge/bestand
+		      -- verhindert Pommes herstellung, wenn keine Pommes mehr vorhanden sind
+		      -- addiert Bestand hinzu wenn etwas per Bestellung hinzugefügt wird.
+
+__CustomerSpawnScript
+	regelt:
+		~ SpawnPunkte der Kunden
+		~ Laufwege der Kunden
+
+
+__KundenScript
+	regelt:
+		~WarteZeit der Kunden am Stand
+		~Bestellungen des Kunden 
+
+
+__UserInterfaceScript
+		~Wenn ein Objekt für eine bestimmte Zeit im Fokus ist, soll die dazugehörige
+		   UI geöffnet werden.
+
+__ObjektAnimationsScript
+		~Wenn per UI etwas aktiviert wird, muss das Objekt eine Animation dazu abspielen
+			(bsp: Fritteuse: "Pommes machen" --> aktiviert  Zustand 'AN' )
+
+__GlowScript
+		~Zeigt per Glow-Effekt an welches Objekt fokusiert wird.
+
