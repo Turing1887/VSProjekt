@@ -235,5 +235,14 @@ Tim nochmal:
 	
 	Ansonsten weiter so. Das wird Super! *Kappa*
 	
+
+### 13.06.16 ###
+	TeamSitzung Uni:
+	Wir benötigen:
+		- Modelle für die Nahrung (Pommes,Burger,Getränke)
+		- Den Loop-Clip für den kl. Tv
+		- UI (Kasse fürs Guthaben,Kunde für Bestellungen,Pfanne fürs Herstellen)
+		- Despawnen der Kunden nach erhalt der Ware
 	
+	(Bestimmt was vergessen - Vorlesung fängt an...)
 	
