@@ -246,3 +246,8 @@ Tim nochmal:
 	
 	(Bestimmt was vergessen - Vorlesung fängt an...)
 	
+	Nachtrag Flo:
+	Die Pommes sind recht Polyintensiv geworden - sollten die Tage mal n Test mit allen
+	Objekten machen um die Performance zu testen.
+	
+	
