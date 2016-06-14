@@ -9,4 +9,5 @@
 - Fritteuse
 - FritteusenKorb
 
-
+- Pommes ( sind für den FritteusenKorb)
+- Pommes_in_Verpackung (erhält der Kunde)
