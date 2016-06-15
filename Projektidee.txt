@@ -250,4 +250,11 @@ Tim nochmal:
 	Die Pommes sind recht Polyintensiv geworden - sollten die Tage mal n Test mit allen
 	Objekten machen um die Performance zu testen.
 	
+### 15.06.16 ###	
+	Flo:
+	Rückelt schon leicht mit 3 instanzen der 1000 Poly-Pommes in der Scene. :(
+	Eventuell einfach ein simplen Teller mit heightmap und Pommestexture?
+	Das eine leichte 3D Wirkung erzielt wird ohne viel Ressourcen zu fressen?
+	
+	
 	
