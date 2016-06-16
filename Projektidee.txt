@@ -256,5 +256,9 @@ Tim nochmal:
 	Eventuell einfach ein simplen Teller mit heightmap und Pommestexture?
 	Das eine leichte 3D Wirkung erzielt wird ohne viel Ressourcen zu fressen?
 	
+	Flo: 
+	Habe akut noch nix weiter für VS fertig gemacht.
+	Neue TestScene mit Canvas UI Sachen erstellt , aber ohne vorzeigbares Endergebnis.
+	Sitze aber auch an anderem Kram + meiner Animation für Ani. 
 	
 	
