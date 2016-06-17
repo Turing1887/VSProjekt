@@ -261,4 +261,11 @@ Tim nochmal:
 	Neue TestScene mit Canvas UI Sachen erstellt , aber ohne vorzeigbares Endergebnis.
 	Sitze aber auch an anderem Kram + meiner Animation für Ani. 
 	
+### 17.06.16 ###	
+	Flo:	
+	Habe mal die zwei alten UnityVersionen aus der Dropbox gelöscht.
+	Setze mich nun an die "aktivierung-der-Objektzustände-per-Raycasting".
+	Und lade dann später die neueste Version in die Dropbox!
+	
+	
 	
