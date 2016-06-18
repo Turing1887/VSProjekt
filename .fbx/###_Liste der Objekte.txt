@@ -8,6 +8,11 @@
 - Dollarnote
 - Fritteuse
 - FritteusenKorb
+- Fritteuse_Singalleuchte
+- Fritteuse_Drehhebel
+- Fritteuse_Fett
 
-- Pommes ( sind für den FritteusenKorb)
+
+- Pommes (sind für den FritteusenKorb)
 - Pommes_in_Verpackung (erhält der Kunde)
+- Flasche mit Etikett
