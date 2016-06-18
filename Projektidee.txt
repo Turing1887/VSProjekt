@@ -267,5 +267,17 @@ Tim nochmal:
 	Setze mich nun an die "aktivierung-der-Objektzustände-per-Raycasting".
 	Und lade dann später die neueste Version in die Dropbox!
 	
+### 17.06.16 ###	
+	Flo:	
+	Habe die Fritteuse überarbeitet. Diese besteht nun aus 5 Teilen:
+	- Fritter9000 , -Korb , -Signalleuchte, -Drehschalter, -Fett.
+	Damit kann man freier die beiden Körbe heben/senken, und die rechte oder linke
+	FritteusenKammer an oder aus machen.
+	Im aktiven Modus legen wir dann die FettAnimation über das Becken (eventuell noch Sound?).
+	
+	Und ich hab mal ne Flasche mit Etikett gebastelt.
 	
 	
+	
+
+
